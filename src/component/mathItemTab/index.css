@@ -1,0 +1,17 @@
+p {
+  color: white;
+  font-size: 25px;
+}
+.eachTab {
+  margin-right: 80px;
+  background-color: transparent;
+  border-color: transparent;
+  color: white;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: Roboto;
+}
+.special {
+  text-decoration: underline;
+  color: #fec653;
+}

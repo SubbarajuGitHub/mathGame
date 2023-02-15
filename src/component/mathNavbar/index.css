@@ -1,0 +1,27 @@
+.navbar-bg {
+  background-color: #2c0e3a;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  height: 30px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.para1 {
+  color: #fec653;
+  margin-left: 20px;
+}
+.para2 {
+  color: #fec653;
+}
+.timer-bg {
+  display: flex;
+  margin-right: 30px;
+  margin-top: 5px;
+}
+.timer-logo {
+  height: 25px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
